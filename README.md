@@ -2,7 +2,7 @@
 Here is a template on how to format your IF assignments, including folder structure, naming conventions, and expectatations per assignment, as the structure may vary
 
 ## Remember to Commit After Each Exercise
-Your `.git` file should be in your root folder. Per each exercise, create a folder for the appropriate files (i.e. index.html, style.css, main.js, etc). Then return to the parent folder, run an `git status` command to ensure your files have been saved and are ready for staging, commiting, and pushing.
+Your `.git` file should be in your root folder. Per each exercise, create a folder for the appropriate files (i.e. index.html, style.css, main.js, etc). Then return to the parent folder (in this case, that's `IF_Assignment_Template`, run an `git status` command to ensure your files have been saved and are ready for staging, committing, and pushing.
 
 As you continue through your Innovation Fellowship, you will be creating new exercise folders, adding files, and pushing to Git on the fly!
 
