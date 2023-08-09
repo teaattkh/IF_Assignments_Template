@@ -13,4 +13,4 @@ Your folder structure and naming conventions should follow the same pattern per 
 
 > For example, `week 1` contains multiple subjects with a number of exercises. As such, assignments will include the subject **and** exercise name.
 >>`week_#_subject_exercise_#`
-> So, the `week 1` folder contains `week_1_html_exercise_1`
+>>So, the `week 1` folder contains `week_1_html_exercise_1`
