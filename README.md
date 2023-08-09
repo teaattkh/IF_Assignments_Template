@@ -16,7 +16,7 @@ Your folder structure and naming conventions should follow the same pattern per 
 >So, the `week 1` folder contains `week_1_html_exercise_1`
 
 ## You may have other repos
-This will serve well for *exercises*, however, for your dedicated portfolio work it is still recommended to have dedicated repos.
+This will serve well for *exercise assignments*, however, for your dedicated portfolio work it is still recommended to have ***separate*** dedicated repos.
 
 # IMPORTANT
 **It is not recommended to have repos within repos.** Each repo will create a dedicated `.git` file in your folders. If you have a `.git` in a subfolder of another folder that already has a `.git`, you may encounter unnecessary obstactles. Please be advised to not create repos within repos.
